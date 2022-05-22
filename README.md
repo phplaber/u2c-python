@@ -1,4 +1,4 @@
-**u2c-python** 是一款将`Unicode`字符转换为`中文`的 Burp Suite 插件，参考了 [u2c(java)](https://github.com/bit4woo/u2c)。
+**u2c-python** 是一款将`Unicode`字符转换为`中文`的 Burp Suite 插件，参考了 [u2c by bit4](https://github.com/bit4woo/u2c)。
 
 ## 使用
 ![conf](images/conf.jpeg)
